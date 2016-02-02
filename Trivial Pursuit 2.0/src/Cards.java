@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+// i hate this so much
 public class Cards 
 {
 	static ArrayList <Questions>history = new ArrayList<Questions>();

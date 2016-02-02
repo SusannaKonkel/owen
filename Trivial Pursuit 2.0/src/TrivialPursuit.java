@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
-
+// please let this work
 public class TrivialPursuit 
 {
 	private static int userDesiredCategory;
